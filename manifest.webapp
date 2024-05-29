@@ -1,10 +1,10 @@
 {
   "version": "1",
   "name": "Cookie Clicker Clone",
-  "launch_path": "/kaios-hosted-sample/index.html",
+  "launch_path": "index.html",
   "description": "Cookie clicker but for KaiOS, expect to see updates soon",
   "icons": {
-    "32": "/kaios-hosted-sample/images/logo32.png"
+    "32": "images/logo32.png"
   },
   "developer": {
     "name": "Alex D",
